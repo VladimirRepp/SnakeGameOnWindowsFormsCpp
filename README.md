@@ -1,6 +1,6 @@
 # SnakeGameOnWindowsFormsCpp
 
-© FirePLanetStudio
+© FirePlanetStudio
 
 IDE: Microsoft Visual Studio 2019
 Language: C++
