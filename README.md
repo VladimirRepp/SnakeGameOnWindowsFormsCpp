@@ -1,6 +1,11 @@
 # SnakeGameOnWindowsFormsCpp
 Исходник проекта "Змейка на Windows Forms C++"
+
 © FirePLanetStudio
+
+IDE: Microsoft Visual Studio 2019
+Language: C++
+Version: 0.1
 
 Данный проект был создан в обучающих целях.
 
