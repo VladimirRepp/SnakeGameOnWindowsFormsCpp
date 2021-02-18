@@ -1,4 +1,4 @@
-# SnakeGameOnWindowsFormsCpp# SnakeGameOnWindowsFormsCpp
+# SnakeGameOnWindowsFormsCpp
 
 © FirePLanetStudio
 
